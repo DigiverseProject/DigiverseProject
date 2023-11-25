@@ -22,20 +22,19 @@ To revolutionize the crypto ecosystem by providing a platform where real-world e
 
 With a current market size of $1.4 trillion and an expected growth to $10 trillion by 2030, Digiverse is positioned at the forefront of the metaverse revolution.
 
-## Getting Started
+### Community and ROI
+First Aim 100,000 initial hodlers. We are committed to a quick return on investment, detailed in our comprehensive business plan.
+
+### Contact Us
+For more details, reach out to us at manager@digiversede.com.tr or visit our website at www.digiversecrypto.com.
+
+"We believe in the power of innovation and the importance of bringing it to everyone in the simplest form possible — as Einstein & Rumi taught us, 'If there is a fire, we will not talk about the fire for hours. The words "There is a fire" will be enough to explain everything.' Our commitment lies in building a user-friendly, transparent, and secure metaverse for all." - The Digiverse Team
+
+### Getting Started
 
 To explore the Digiverse, follow the steps below for a local setup:
-
 ```bash
 git clone https://github.com/digiverse/digiverse.git
 cd digiverse
 npm install
 npm start
-
-Community and ROI
-First Aim 100,000 initial hodlers. We are committed to a quick return on investment, detailed in our comprehensive business plan.
-
-Contact Us
-For more details, reach out to us at manager@digiversede.com.tr or visit our website at www.digiversecrypto.com.
-
-"We believe in the power of innovation and the importance of bringing it to everyone in the simplest form possible — as Einstein & Rumi taught us, 'If there is a fire, we will not talk about the fire for hours. The words "There is a fire" will be enough to explain everything.' Our commitment lies in building a user-friendly, transparent, and secure metaverse for all." - The Digiverse Team
