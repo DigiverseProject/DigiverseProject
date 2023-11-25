@@ -43,4 +43,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 "We believe in the power of innovation and the importance of bringing it to everyone in the simplest form possible — as Einstein & Rumi taught us, 'If there is a fire, we will not talk about the fire for hours. The words "There is a fire" will be enough to explain everything.' Our commitment lies in building a user-friendly, transparent, and secure metaverse for all." - The Digiverse Team
 
 
-This README is structured to provide an overview of the Digiverse project, its unique selling points, and a quick start guide for interested developers or users. It encapsulates the ethos of the project as outlined in the business plan, showcasing its market potential and the team's commitment to transparency and user experience&#8203;``【oaicite:0】``&#8203;.
+This README is structured to provide an overview of the Digiverse project, its unique selling points, and a quick start guide for interested developers or users. It encapsulates the ethos of the project as outlined in the business plan, showcasing its market potential and the team's commitment to transparency and user experiences
