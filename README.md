@@ -25,14 +25,10 @@ With a current market size of $1.4 trillion and an expected growth to $10 trilli
 
 To explore the Digiverse, follow the steps below for a local setup:
 
-```bash
-git clone https://github.com/digiverse/digiverse.git
-cd digiverse
-npm install
-npm start
+
 
 Community and ROI
-We pride ourselves on a robust community with over 100,000 initial hodlers. We are committed to a quick return on investment, detailed in our comprehensive business plan.
+First Aim 100,000 initial hodlers. We are committed to a quick return on investment, detailed in our comprehensive business plan.
 
 Contact Us
 For more details, reach out to us at manager@digiversede.com.tr or visit our website at www.digiversecrypto.com.
@@ -44,3 +40,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 This README is structured to provide an overview of the Digiverse project, its unique selling points, and a quick start guide for interested developers or users. It encapsulates the ethos of the project as outlined in the business plan, showcasing its market potential and the team's commitment to transparency and user experiences
+
+```bash
+git clone https://github.com/digiverse/digiverse.git
+cd digiverse
+npm install
+npm start
