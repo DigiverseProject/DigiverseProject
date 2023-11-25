@@ -4,7 +4,7 @@ Welcome to the Digiverse Project, the pioneering digital universe creating an im
 
 ## Executive Summary
 
-Digiverse is the world's premier digital universe platform, offering unique experiences that blend virtual reality with the real world. With a focus on transparency, trust, and security, we are the first organization to offer a glasses-free metaverse experience. The heart of Digiverse lies in its commitment to filling the trust gap within the market, providing reliable and substantial returns to our digi token holders.
+Digiverse is the world's premier digital metaverse platform, offering unique experiences that blend virtual reality with the real world. With a focus on transparency, trust, and security, we are the first organization to offer a glasses-free metaverse experience. The heart of Digiverse lies in its commitment to filling the trust gap within the market, providing reliable and substantial returns to our digi token holders.
 
 ### Our Vision
 
