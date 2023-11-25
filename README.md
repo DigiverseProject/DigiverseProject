@@ -1,3 +1,4 @@
+![alt text](https://github.com/DigiverseProject/Photos/blob/main/photo.png)
 # Digiverse Project
 
 Welcome to the Digiverse Project, the pioneering digital universe creating an immersive virtual reality experience without the need for glasses. This project is not only a technological innovation but also a financial revolution, bridging the real world with the vast potential of the metaverse.
@@ -25,7 +26,11 @@ With a current market size of $1.4 trillion and an expected growth to $10 trilli
 
 To explore the Digiverse, follow the steps below for a local setup:
 
-
+```bash
+git clone https://github.com/digiverse/digiverse.git
+cd digiverse
+npm install
+npm start
 
 Community and ROI
 First Aim 100,000 initial hodlers. We are committed to a quick return on investment, detailed in our comprehensive business plan.
@@ -33,16 +38,4 @@ First Aim 100,000 initial hodlers. We are committed to a quick return on investm
 Contact Us
 For more details, reach out to us at manager@digiversede.com.tr or visit our website at www.digiversecrypto.com.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 "We believe in the power of innovation and the importance of bringing it to everyone in the simplest form possible — as Einstein & Rumi taught us, 'If there is a fire, we will not talk about the fire for hours. The words "There is a fire" will be enough to explain everything.' Our commitment lies in building a user-friendly, transparent, and secure metaverse for all." - The Digiverse Team
-
-
-This README is structured to provide an overview of the Digiverse project, its unique selling points, and a quick start guide for interested developers or users. It encapsulates the ethos of the project as outlined in the business plan, showcasing its market potential and the team's commitment to transparency and user experiences
-
-```bash
-git clone https://github.com/digiverse/digiverse.git
-cd digiverse
-npm install
-npm start
