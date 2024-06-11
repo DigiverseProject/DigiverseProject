@@ -19,7 +19,7 @@ With a current market size of $1.4 trillion and an expected growth to $10 trilli
 For more details, reach out to us at manager@digiversede.com.tr or visit our website at www.digiversecrypto.com.
 
 ### Getting Started
-
+Before investing in our project or any project, make sure you understand all the risks included in the whitepaper. Digiverse does not promise you profits.
 To explore the Digiverse, follow the steps below for a local setup:
 ```bash
 git clone https://github.com/digiverse/digiverse.git
